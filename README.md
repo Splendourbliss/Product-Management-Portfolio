@@ -14,23 +14,17 @@ Focus:Product Research | UX Analysis | Feature Strategy | Prioritization
 
 A product teardown examining WhatsApp's user experience, identifying friction points, and proposing three product opportunities with supporting reasoning, prioritization, and success metrics.
 
-[View Project →](./01-WhatsApp-Product-Teardown)
-
  02 — Google Maps Trip Planning Board
 
 Focus:Product Requirements | User Stories | MVP | Wireframes | Product Metrics
 
 A mini PRD proposing a collaborative Trip Planning Board for Google Maps. The project covers the user problem, target users, user stories, proposed solution, MVP scope, wireframes, requirements, and success metrics.
 
-[View Project →](./02-Google-Maps-Feature-PRD)
-
  03 — Food Delivery Competitive Analysis
 
 Focus:Competitive Analysis | Market Research | Product Strategy
 
 A competitive analysis of three food-delivery platforms, examining their customer experience, product capabilities, differentiation, and potential product opportunities.
-
-[View Project →](./03-Food-Delivery-Competitive-Analysis)
 
 Product Management Skills Demonstrated
 - Product Research
