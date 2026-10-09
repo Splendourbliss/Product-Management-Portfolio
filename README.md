@@ -44,11 +44,9 @@ Product Management Skills Demonstrated
 - Product Documentation
 
  Tools
-- Notion
 - Figma
 - Google Docs
 - Google Sheets
-- Canva
 - GitHub
 - ChatGPT
 
