@@ -4,7 +4,7 @@ Project Overview
 This project explores the international food delivery market to identify user pain points, evaluate competing products, and propose product improvements that enhance the food ordering experience.
 
 Full Project Report
-View the Complete PDF Report
+View the Complete PDF Report. https://github.com/Splendourbliss/Product-Management-Portfolio/blob/57865f732cc86978de962a3bc9bd2d883c4fd690/03-Food-Delivery-Competitive-Analysis/Food%20Delivery%20App.%20(1).pdf
 The report covers competitive analysis, user journey mapping, product opportunities, feature prioritization, and recommendations.
 
 Key Objectives
